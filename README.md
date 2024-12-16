@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://www.synechron.com/sites/default/files/2024-02/Microsoft%20partnership%20press%20release%20-%20Banner%20.webp))
+![MasterHead](https://www.synechron.com/sites/default/files/2024-02/Microsoft%20partnership%20press%20release%20-%20Banner%20.webp)
 <h1 align="center">Hi 👋, I'm Tasin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif)" >
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasinlunatic&label=Profile%20views&color=0e75b6&style=flat" alt="tasinlunatic" /> </p>
 
