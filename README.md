@@ -1,4 +1,3 @@
-![MasterHead](https://www.synechron.com/sites/default/files/2024-02/Microsoft%20partnership%20press%20release%20-%20Banner%20.webp)
 <h1 align="center">Hi 👋, I'm Tasin</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif" >
@@ -23,6 +22,11 @@
 <a href="https://linkedin.com/in/ta-sin-bba79a342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ta-sin-bba79a342" height="30" width="40" /></a>
 <a href="https://fb.com/tasin.ahmed.1291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tasin.ahmed.1291" height="30" width="40" /></a>
 <a href="https://instagram.com/__tas___in10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__tas___in10" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Contribution Jet</h3>
+<p align="center">
+  <img src="dist/github-jet.svg" alt="Animated GitHub contribution jet" width="100%" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
