@@ -1,5 +1,5 @@
 <div align="right">
-  🇺🇸 <strong>English</strong> | 🇧🇷 <a href="README.pt-br.md">Português</a>
+  🇺🇸 <strong>English</strong> 
 </div>
 
 # ✨ Welcome to My Portfolio!
