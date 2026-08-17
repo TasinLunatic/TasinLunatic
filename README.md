@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Tasin</h1>
-<h3 align="center">A passionate Software developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif" >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tasinlunatic&label=Profile%20views&color=0e75b6&style=flat" alt="tasinlunatic" /> </p>
+<div align="right">
+  🇺🇸 <strong>English</strong> | 🇧🇷 <a href="README.pt-br.md">Português</a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tasinlunatic" alt="tasinlunatic" /></a> </p>
+# ✨ Welcome to My Portfolio!
+
+Here you will find projects focused on embedded systems, IoT, real-time operating systems, and software development. Below is a guide to the main repositories you can explore.
+
+## 📝 About me
+
+I am a Computer Science and Technology student at Taizhou University, I'm a passionate software developer , expected to graduate in June 2028. I have a strong interest in programming and its integration with physical devices and hardware.
+
 
 - 🔭 I’m currently working on **CSS**
 
