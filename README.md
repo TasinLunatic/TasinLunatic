@@ -6,8 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=TasinLunatic&label=PROFILE_VIEWS&color=22d3ee&style=flat-square" alt="profile views" />
 </p>
 
----
-
 <h2 align="center">⚡ // ABOUT_ME</h2>
 
 <p align="center"><img src="assets/divider.svg" width="320" /></p>
@@ -54,8 +52,6 @@
   </tr>
 </table>
 
----
-
 <h2 align="center">🖥️ // TERMINAL</h2>
 
 <p align="center"><img src="assets/divider.svg" width="320" /></p>
@@ -65,8 +61,6 @@
 </p>
 
 <p align="center"><sub>simulated terminal — presentation only, no real commands are executed</sub></p>
-
----
 
 <h2 align="center">📊 // STATS</h2>
 
@@ -85,8 +79,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TasinLunatic&theme=darkhub&no-frame=true&margin-w=10&column=7" alt="GitHub trophies" />
 </p>
-
----
 
 <h2 align="center">🛠️ // TECH_STACK</h2>
 
@@ -150,8 +142,6 @@
   </tr>
 </table>
 
----
-
 <h2 align="center">🚀 // FEATURED_PROJECTS</h2>
 
 <p align="center"><img src="assets/divider.svg" width="320" /></p>
@@ -203,7 +193,7 @@
       <p>Learning Vue with Vite — building web apps with Vue and JavaScript.</p>
       <p>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=100" alt="Vite" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
       </p>
     </td>
     <td width="50%" align="center">
@@ -222,8 +212,6 @@
   <a href="https://github.com/TasinLunatic?tab=repositories"><sub>explore all repositories →</sub></a>
 </p>
 
----
-
 <h2 align="center">✈️ // CONTRIBUTION_JET</h2>
 
 <p align="center"><img src="assets/divider.svg" width="320" /></p>
@@ -233,8 +221,6 @@
 </p>
 
 <p align="center"><sub>auto-generated from real contribution data by GitHub Actions — <code>jet-heatmap.yml</code></sub></p>
-
----
 
 <h2 align="center">🔗 // CONNECT</h2>
 
