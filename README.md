@@ -73,11 +73,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TasinLunatic&bg_color=0d1117&color=58a6ff&line=22d3ee&point=a78bfa&area=true&area_color=161b22&title_color=22d3ee&hide_border=true" alt="commit activity graph" width="90%" />
+  <img src="https://activity-graph.vercel.app/graph?username=TasinLunatic&bg_color=0d1117&color=58a6ff&line=22d3ee&point=a78bfa&area=true&area_color=161b22&title_color=22d3ee&hide_border=true" alt="commit activity graph" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TasinLunatic&theme=darkhub&no-frame=true&margin-w=10&column=7" alt="GitHub trophies" />
+  <img src="https://github-trophies.vercel.app/?username=TasinLunatic&theme=darkhub&no-frame=true&margin-w=10&column=7" alt="GitHub trophies" />
 </p>
 
 <h2 align="center">🛠️ // TECH_STACK</h2>
