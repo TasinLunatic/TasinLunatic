@@ -1,0 +1,292 @@
+# MASTER PROMPT: Build My GitHub Profile into a Cyberpunk Developer Dashboard
+
+Act as a senior GitHub profile designer, GitHub README engineer, frontend developer, and personal branding specialist.
+
+Your mission is to redesign my GitHub profile into a premium, dark, cyberpunk-inspired developer portfolio, using the attached screenshot of **Cyberbee-pro** as the main visual reference.
+
+## 1. My GitHub Identity
+
+- GitHub profile: https://github.com/TasinLunatic
+- GitHub username: `TasinLunatic`
+- Professional identity: Full Stack Developer and Intern
+- Community connection: bongoDev
+- Main objective: Build an impressive, professional, visually rich GitHub profile that demonstrates my coding journey, technical skills, projects, and developer personality.
+
+First, inspect my public GitHub profile and repositories. Identify my actual projects, programming languages, frameworks, technologies, and available profile information. Use the real information you can verify.
+
+Do not invent professional experience, achievements, project statistics, certifications, follower counts, or contributions. If information is unavailable, create clearly marked placeholders or ask me for the missing details.
+
+## 2. Visual Design Direction
+
+Closely study the attached reference screenshot before writing any code.
+
+Recreate its overall visual language, not another developer's identity.
+
+The target aesthetic is:
+
+- Dark, minimal, futuristic, cyberpunk-inspired developer dashboard.
+- Black and charcoal backgrounds with subtle borders.
+- White and muted-gray typography.
+- Carefully selected neon cyan, blue, purple, and green accents.
+- Terminal-inspired panels, compact information blocks, and technical-looking headers.
+- Colorful technology badges that remain readable.
+- Consistent spacing, alignment, and section hierarchy.
+- A monochrome anime or manga-inspired avatar aesthetic, while allowing me to use my own GitHub avatar.
+- A sophisticated, information-dense layout that still looks organized and professional.
+
+The result should feel like a developer's command center rather than a generic GitHub profile template.
+
+Important: GitHub controls the outer profile page. Customize the README content, images, SVG assets, tables, and supported Markdown/HTML rather than attempting to apply custom CSS or JavaScript to the GitHub website itself.
+
+## 3. Required Profile Sections
+
+Design and implement the following sections in a cohesive visual system.
+
+### A. Developer Introduction
+
+Create a strong opening section containing:
+
+- My name or GitHub identity.
+- A concise headline: Full Stack Developer and Intern.
+- A short, natural introduction.
+- My interests in software development, web technologies, and learning new tools.
+- A professional banner or custom visual header, if it improves the design.
+- A subtle typing animation only if it is reliable and works with an external service.
+
+Keep the writing human, direct, and recruiter-friendly. Avoid exaggerated claims and generic AI-generated introductions.
+
+### B. Terminal-Style About Me
+
+Create a visually appealing code-terminal-inspired introduction.
+
+Use a code block or an image-based terminal panel to display information such as:
+
+- Current role and learning goals.
+- Main development interests.
+- Technologies I use.
+- Projects I am building.
+- My approach to learning and solving problems.
+
+Make sure any simulated terminal content is clearly presentation-oriented and does not pretend to execute real commands.
+
+### C. GitHub Statistics Dashboard
+
+Create a compact, balanced statistics area using reliable external widgets where appropriate.
+
+Consider:
+
+- GitHub statistics.
+- Most-used programming languages.
+- Contribution activity.
+- Streak statistics, if supported and available.
+- Profile views, only if a reliable service is available.
+- Achievement or trophy widgets, only if they render correctly.
+
+Use a consistent dark theme.
+
+Do not assume external widgets work simply because their URLs exist. Check current availability where possible, provide alternatives, and explain any third-party dependencies.
+
+Do not fabricate statistics or use misleading hardcoded values.
+
+### D. Technology Stack
+
+Organize my verified technologies into visually distinct categories, such as:
+
+1. Programming languages.
+2. Frontend development.
+3. Backend development.
+4. Databases.
+5. Tools and workflow.
+6. Cloud, deployment, and infrastructure.
+7. Other technologies supported by my actual repositories.
+
+Use recognizable technology badges and icons.
+
+Prioritize technologies demonstrated by my repositories or confirmed by me. Do not label a technology as a professional strength just because it appears in a tutorial project.
+
+### E. Featured Projects
+
+Inspect my public repositories and select the most relevant projects.
+
+For each featured project, provide:
+
+- Repository name linked to the actual GitHub repository.
+- A concise explanation of what it does.
+- Verified technologies.
+- The problem it solves or the main feature it demonstrates.
+- A link to explore the code.
+
+Prioritize quality and diversity rather than listing every repository.
+
+If a project README is incomplete, describe only what the available repository content supports. Do not invent features or claim a project is deployed unless you can verify it.
+
+Use attractive cards or a clean table layout that works on GitHub.
+
+### F. Developer Activity
+
+Add a contribution graph or activity visualization if a reliable service is available.
+
+Consider:
+
+- Contribution activity.
+- Recent coding activity.
+- GitHub contribution statistics.
+- A contribution calendar widget.
+
+Keep this section consistent with the dark dashboard design.
+
+Do not add a contribution snake animation. I do not want a snake animation anywhere in this design.
+
+Do not create fake contribution graphs or imply that generated visuals represent live data.
+
+### G. Social and Professional Links
+
+Create a compact row or grid of badges linking to my real public profiles.
+
+Include GitHub and any verified professional or social accounts you can find.
+
+For missing links, leave clearly marked placeholders for me to fill in.
+
+Never invent a LinkedIn account, email address, personal website, or social profile.
+
+### H. Closing Section
+
+End with a clean footer containing a short developer-oriented statement, a collaboration invitation, and relevant links.
+
+Keep the ending subtle rather than excessively decorative.
+
+## 4. Implementation Requirements
+
+Generate a complete, ready-to-use GitHub profile README.
+
+The profile repository must be named exactly:
+
+`TasinLunatic`
+
+The main file must be:
+
+`README.md`
+
+Use GitHub-compatible Markdown and supported HTML.
+
+You may use:
+
+- Markdown tables and headings.
+- HTML tables, images, and links where appropriate.
+- Shields.io badges.
+- Verified GitHub statistics services.
+- Externally hosted SVG images.
+- A custom banner or other static image assets.
+- Reliable contribution or activity widgets.
+
+Avoid:
+
+- Custom CSS that GitHub strips or ignores.
+- JavaScript that cannot execute in a GitHub README.
+- Excessive GIFs or animations.
+- Broken image URLs.
+- Unsupported HTML elements.
+- Unnecessary external services.
+- Unreadable badges or overly wide tables.
+- Copying the reference developer's personal details, achievements, or project descriptions.
+- A snake contribution animation.
+
+Ensure the design remains usable on desktop and mobile. GitHub README layouts have limited responsive controls, so prefer flexible images, restrained table widths, and sensible section lengths.
+
+## 5. Asset and Widget Verification
+
+Before finalizing the README:
+
+1. Check the current documentation for GitHub profile READMEs and supported Markdown/HTML.
+2. Verify external widget URL formats and themes where possible.
+3. Prefer established services and avoid unnecessary dependencies.
+4. Check image links and repository URLs.
+5. Provide fallbacks for unreliable statistics widgets.
+6. Explain which components update automatically and which are static images.
+7. Do not claim that an asset has been tested unless you actually tested it.
+
+If an image or widget requires a separate repository, explain how to configure it.
+
+If a GitHub Actions workflow is necessary, provide its complete workflow file, permissions, setup instructions, and any required secrets. Avoid introducing workflows that are unnecessary for the design.
+
+## 6. Design Quality Requirements
+
+The final result must:
+
+- Capture the visual spirit of the supplied reference.
+- Have a strong visual hierarchy and consistent alignment.
+- Use a dark, technical, premium aesthetic.
+- Display real projects and real skills.
+- Avoid generic filler text.
+- Avoid overwhelming visitors with dozens of unrelated badges.
+- Look credible to recruiters and fellow developers.
+- Be maintainable when I add new projects or technologies.
+- Preserve my own identity instead of cloning someone else's profile.
+
+Treat the screenshot as a design reference, not a source of content to copy.
+
+## 7. Required Workflow
+
+Work in this order:
+
+**Phase 1 — Audit**
+
+Inspect my GitHub profile and accessible public repositories. Summarize my verified identity, projects, technologies, and missing information.
+
+**Phase 2 — Design plan**
+
+Explain the proposed section order, layout, color palette, visual elements, and widget choices. Identify any external dependencies.
+
+**Phase 3 — Implementation**
+
+Generate the complete `README.md`, not merely a partial example or a list of recommendations.
+
+Generate every additional asset or configuration file needed for the proposed design, and provide complete contents and exact paths.
+
+**Phase 4 — Validation**
+
+Check Markdown and HTML structure, repository links, image sources, widget URLs, mobile limitations, and unsupported GitHub features. Clearly identify anything that cannot be verified.
+
+**Phase 5 — Installation**
+
+Explain exactly how to create or update the `TasinLunatic/TasinLunatic` repository and publish the profile README.
+
+If you can access and edit my repository through an authorized integration, inspect the existing files first. Show me the planned changes and obtain my approval before committing, pushing, overwriting, or deleting anything. If you cannot access my repository directly, provide the complete files for me to apply manually.
+
+## 8. Final Deliverables
+
+Provide:
+
+1. A brief audit of my existing GitHub profile.
+2. The design plan.
+3. The complete `README.md` in one copyable code block or as a generated file.
+4. Any additional required assets and their complete contents.
+5. Setup instructions.
+6. A validation checklist.
+7. A list of external dependencies and known limitations.
+
+Do not stop after suggesting ideas. Produce a complete implementation that I can actually use.
+
+**Final objective:** Transform https://github.com/TasinLunatic into a distinctive, dark cyberpunk developer dashboard inspired by the attached Cyberbee-pro screenshot, while keeping all content authentic to me, technically compatible with GitHub, and professional enough to present to recruiters.
+
+
+Steps how to do it:
+Step 1 — Upload your reference
+
+Open Claude and attach the same Cyberbee-pro screenshot you sent me. This gives Claude a visual target to analyze.
+
+
+
+Step 2 — Let Claude inspect your profile
+
+Give it your GitHub URL and let it inspect your existing repositories. If it cannot access GitHub directly, provide your repository list or upload a ZIP of your profile repository.
+
+
+
+Step 3 — Generate and publish
+
+Ask Claude to produce the complete README.md and any required assets. Review the changes before replacing your existing profile README.
+
+
+
+Your profile README repository must be public and named exactly TasinLunatic, with a README.md in its root, for GitHub to display it automatically.
