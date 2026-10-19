@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="img" aria-label="section divider">
+  <defs>
+    <filter id="glowSoft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="1.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g stroke="#30363d" stroke-width="2">
+    <line x1="0" y1="12" x2="528" y2="12"/>
+    <line x1="672" y1="12" x2="1200" y2="12"/>
+  </g>
+  <g filter="url(#glowSoft)">
+    <polygon points="600,2 612,12 600,22 588,12" fill="none" stroke="#22d3ee" stroke-width="2"/>
+    <polygon points="538,7 543,12 538,17 533,12" fill="#a78bfa"/>
+    <polygon points="662,7 667,12 662,17 657,12" fill="#a78bfa"/>
+  </g>
+</svg>
